@@ -401,7 +401,7 @@ For questions or issues:
 1. Check the [documentation](docs/)
 2. Review [USER_GUIDE.md](docs/USER_GUIDE.md)
 3. Open an issue on GitHub
-4. Contact: [your.email@example.com]
+4. Contact: [subeshan2005@gmail.com]
 
 ---
 
@@ -419,5 +419,4 @@ Built with ❤️ for Duality AI Hackathon 2025
 
 **Last Updated:** October 5, 2025  
 **Version:** 1.1  
-**Status:** ✅ Competition Submission Ready  
 **mAP@0.5:** 🏆 77.64%
