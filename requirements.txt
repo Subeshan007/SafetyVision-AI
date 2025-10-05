@@ -1,0 +1,42 @@
+# Python Dependencies for SafetyVision AI
+# Duality AI Hackathon 2025
+
+# Core ML/DL Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# YOLOv8 and Object Detection
+ultralytics>=8.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+Pillow>=10.0.0
+
+# Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.65.0
+requests>=2.31.0
+
+# GUI (for desktop app)
+# Tkinter usually comes with Python, but PIL is needed
+pillow>=10.0.0
+
+# Optional but recommended
+notebook>=7.0.0  # For Jupyter notebooks
+ipywidgets>=8.0.0  # For interactive widgets
+
+# Development tools (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0

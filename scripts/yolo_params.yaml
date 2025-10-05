@@ -1,0 +1,5 @@
+train: d:\hackaura new\train_3\train3
+val: d:\hackaura new\train_3\val3
+test: d:\hackaura new\test3
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']                                         
