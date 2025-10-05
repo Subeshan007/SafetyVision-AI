@@ -352,7 +352,7 @@ This project was developed for the Duality AI Space Station Challenge 2025.
 
 **Team:** Subeshan007  
 **Contact:** subeshan2005@gmail.com  
-**Institution:** Sri Lanka  
+**Location:** Pondicherry, India  
 
 ---
 
