@@ -624,7 +624,7 @@ submission/
 ---
 
 **Report Compiled:** October 5, 2025  
-**Author:** [Your Name]  
+**Author:** Subeshan007  
 **Competition:** Duality AI Space Station Challenge 2025  
 **Status:** ✅ Ready for Submission  
 **Final mAP@0.5:** 🏆 **77.64%**

@@ -105,7 +105,7 @@ SafetyVision-AI/
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/SafetyVision-AI.git
+git clone https://github.com/Subeshan007/SafetyVision-AI.git
 cd SafetyVision-AI
 
 # Install dependencies
@@ -350,9 +350,9 @@ python scripts/predict.py
 
 This project was developed for the Duality AI Space Station Challenge 2025. 
 
-**Team:** [Your Name/Team Name]  
-**Contact:** [Your Email]  
-**Institution:** [Your Institution]  
+**Team:** Subeshan007  
+**Contact:** subeshan2005@gmail.com  
+**Institution:** Sri Lanka  
 
 ---
 
@@ -377,10 +377,10 @@ If you use this work, please cite:
 ```bibtex
 @misc{safetyvision2025,
   title={SafetyVision AI: High-Performance Safety Equipment Detection for Space Stations},
-  author={Your Name},
+  author={Subeshan007},
   year={2025},
   publisher={GitHub},
-  howpublished={\\url{https://github.com/YOUR_USERNAME/SafetyVision-AI}}
+  howpublished={\\url{https://github.com/Subeshan007/SafetyVision-AI}}
 }
 ```
 
